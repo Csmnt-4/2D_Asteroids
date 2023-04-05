@@ -1,0 +1,8 @@
+[2023-04-04 20:54:46][Info]	Context reports FSAA is available with 8samples
+[2023-04-04 20:54:46][Info]	Requesting FSAA with 8samples
+[2023-04-04 20:54:46][Info]	2 monitors detected, running on primary one
+[2023-04-04 20:54:46][Info]	Renderer: NVIDIA GeForce GTX 1660 Ti/PCIe/SSE2
+[2023-04-04 20:54:46][Info]	OpenGL version supported: 4.6.0 NVIDIA 531.41
+[2023-04-04 20:54:46][Info]	Creating TextureManager with 31 maximum bound textures
+[2023-04-04 20:56:10][Info]	Terminated Blit3D
+[2023-04-04 20:56:10][Info]	TextureManager destroyed
